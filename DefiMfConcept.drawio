@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-08T04:22:28.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Va0DBQ0HG22u4W3akRsq" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T06:19:04.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="xzAbfilnw764nl9SEk3s" version="13.6.0" type="github">
   <diagram id="s6OwTP6jVbqwrNtyVciZ" name="Page-1">
-    <mxGraphModel dx="786" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,12 +39,6 @@
         </mxCell>
         <mxCell id="7ZY8rFN3QnacMBIgFG0h-10" value="Mutual Fund Pool" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="194" y="40" width="410" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZY8rFN3QnacMBIgFG0h-11" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="260" as="sourcePoint" />
-            <mxPoint x="320" y="220" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="7ZY8rFN3QnacMBIgFG0h-13" value="Votes for &lt;br&gt;selection&lt;br&gt;&amp;nbsp;of crypto" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="280" width="120" height="60" as="geometry" />
@@ -102,6 +96,18 @@
             <mxPoint x="400" y="380" as="sourcePoint" />
             <mxPoint x="400" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3R21w9cmI3Dpv5J9La13-19" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="260" as="sourcePoint" />
+            <mxPoint x="310" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3R21w9cmI3Dpv5J9La13-20" value="Coin Swap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3R21w9cmI3Dpv5J9La13-21" value="Coin Swap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="220" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
